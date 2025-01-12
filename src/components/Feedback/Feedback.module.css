@@ -1,0 +1,17 @@
+.list {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.item {
+  text-transform: capitalize;
+  font-size: 18px;
+}
+
+.statistic {
+  text-transform: capitalize;
+  font-size: 18px;
+  font-weight: 700;
+  color: blue;
+}
